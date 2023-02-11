@@ -20,7 +20,7 @@ title                    : "분명까먹"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "kro"
-description              : "썩 괜찮은 방법"
+description              : "괜찮음"
 url                      : "https://kroxbeat.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -288,5 +288,5 @@ defaults:
       author_profile: true
       read_time: true
       comments: # true
-      share: true
-      related: true
+      share: false
+      related: false
